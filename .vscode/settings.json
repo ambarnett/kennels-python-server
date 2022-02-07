@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/Users/andrewbarnett/.local/share/virtualenvs/kennels-server-9eD1WOTH/bin/python"
+    "python.pythonPath": "/Users/andrewbarnett/.local/share/virtualenvs/kennels-server-9eD1WOTH/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
 }
